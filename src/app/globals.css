@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    font-family: 'Libre Franklin';
+    height: 100%;
+  }
+  video {
+    object-fit: fill;
+  }
+  body {
+    overflow-x: hidden;
+  }
+}
