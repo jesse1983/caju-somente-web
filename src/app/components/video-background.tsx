@@ -13,7 +13,7 @@ export default function VideoBackground() {
       videoSrc: "./banner01.mp4",
       slogan: (
         <span>
-          Como anda a <br /> sua{" "}
+          Como anda a <br /> sua {" "}
           <strong className="text-sky-500">saúde mental</strong>?
         </span>
       ),
@@ -25,9 +25,9 @@ export default function VideoBackground() {
       videoSrc: "./banner02.mp4",
       slogan: (
         <span>
-          Consultas com <strong className="text-sky-500">psicólogos</strong>{" "}
-          <br />e{" "}
-          <strong className="text-sky-500">médicos psiquiátricos</strong>
+          Caju + Somente - Unidos pela{" "}
+          <br />{" "}
+          <strong className="text-sky-500">revolução da saúde mental!</strong>
         </span>
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
@@ -38,8 +38,9 @@ export default function VideoBackground() {
       videoSrc: "./banner03.mp4",
       slogan: (
         <span>
-          Atendimento online em <br /> todo{" "}
-          <strong className="text-sky-500">Brasil</strong>
+          <strong className="text-sky-500">Psicólogos e </strong>
+          <strong className="text-sky-500">Psiquiatras</strong> <br />{" "}
+          para o mesmo dia
         </span>
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
@@ -50,9 +51,8 @@ export default function VideoBackground() {
       videoSrc: "./banner04.mp4",
       slogan: (
         <span>
-          Receita médica de{" "}
-          <strong className="text-sky-500">forma digital</strong> <br /> ou na{" "}
-          <strong className="text-sky-500">sua casa</strong>
+          Atendimento on-line em <br />{" "}
+          <strong className="text-sky-500"> todo país</strong>
         </span>
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
