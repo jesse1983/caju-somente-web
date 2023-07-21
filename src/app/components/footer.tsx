@@ -20,7 +20,7 @@ export default function Footer() {
       <div className="grid grid-cols-1 md:grid-cols-3 p-10 align-middle justify-center gap-10">
         <div className="flex align-middle justify-center m-auto">
           <Image
-            src={"./logos-color.svg"}
+            src={"./logo-caju-somente.svg"}
             width={188}
             height={161}
             alt="C6 Somente"
