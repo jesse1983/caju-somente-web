@@ -69,7 +69,6 @@ export default function Carousel() {
 
   return (
     <div className="mx-auto container py-10">
-      <div className="text-center text-4xl font-light mb-10">Com o que podemos te ajudar?</div>
 
       <div className="flex gap-10 items-center mb-10">
         <div className="flex-none">

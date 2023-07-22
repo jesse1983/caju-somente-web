@@ -17,10 +17,26 @@ module.exports = {
       height: {
         screen: 'calc(var(--vh, 1vh) * 100)',
       }
-    }
-    // colors: {
-    //   secondary: '#00AEFF',
-    // },
+    },
+    extend: {
+      colors: {
+        slate: {
+          30: '#ffffff',
+        },
+        crimson: {
+          50: '#fdf8f6',
+          100: '#f2e8e5',
+          200: '#eaddd7',
+          300: '#e80536',
+          400: '#c9042f',
+          500: '#b3042a',
+          600: '#910423',
+          700: '#75041d',
+          800: '#570316',
+          900: '#30010c',
+        },
+      }
+    },
   },
   plugins: [],
 }

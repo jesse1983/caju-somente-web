@@ -3,9 +3,9 @@ import Image from "next/image";
 
 export default function Numbers() {
   const nums = [
-    { total: "+8.000", unit: "Consultas mensais", icon: "./icon-consultas.svg", color: '#02C567' },
-    { total: "+93%", unit: "Em taxa de retorno", icon: "./icon-retorno.svg", color: '#2F88FF' },
-    { total: "+175.000", unit: "Vidas transformadas", icon: "./icon-vidas.svg", color: '#FF0523' },
+    { total: "+10.000", unit: "Consultas mensais", icon: "./icon-consultas.svg", color: '#02C567' },
+    { total: "+95%", unit: "Em taxa de retorno", icon: "./icon-retorno.svg", color: '#2F88FF' },
+    { total: "+200.000", unit: "Vidas transformadas", icon: "./icon-vidas.svg", color: '#FF0523' },
   ];
   return (
     <div

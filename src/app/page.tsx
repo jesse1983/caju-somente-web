@@ -1,10 +1,11 @@
-import VideoBackground from "./components/video-background";
 import Navigation from "./components/navigation";
-import Icons from "./components/icons";
-import Carousel from "./components/caroussel";
-import Footer from "./components/footer";
-import Numbers from "./components/numbers";
+import VideoBackground from "./components/video-background";
+import Partnership from "./components/partnership";
 import Discount from "./components/discount";
+import Carousel from "./components/caroussel";
+import Icons from "./components/icons";
+import Numbers from "./components/numbers";
+import Footer from "./components/footer";
 
 export default function Home() {
   return (
@@ -14,8 +15,9 @@ export default function Home() {
         <VideoBackground />
       </header>
       <main className="pb-10">
-        <div className="container mx-auto"><Carousel /></div>
+        {/* <Partnership /> */}
         <Discount />
+        <div className="container mx-auto"><Carousel /></div>
         <div className="container mx-auto"><Icons /></div>
         <Numbers />
         <Footer />
