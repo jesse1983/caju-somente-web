@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Parnership() {
   return <div className="shadow-[0_0_100px_0_rgba(42,77,208,0.2)]">
-    <div className="container sm:pt-12 pt-5">
+    <div className="container sm:pt-12 pt-5 m-auto">
       <div className="grid grid-cols-1 sm:grid-cols-3 md:h-72 px-14">
         <div className="flex md:text-left text-center text-black flex-col xl:pl-20">
           <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">Já pensou em</div>
