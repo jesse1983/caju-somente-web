@@ -4,45 +4,27 @@ export default function Parnership() {
   return <div className="shadow-[0_0_100px_0_rgba(42,77,208,0.2)]">
     <div className="container sm:pt-12 pt-5 m-auto">
       <div className="grid grid-cols-1 sm:grid-cols-3 md:h-72 px-14">
-        <div className="flex md:text-left text-center text-black flex-col xl:pl-20">
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">Já pensou em</div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">cuidar da sua saúde</div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">mental com o</div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold text-sky-700">menor custo <span className="text-black">do</span></div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">mercado?</div>
+        <div className="flex md:text-left text-center text-black flex-col xl:w-80 xl:pl-20">
+          <p className="text-[1.5rem] w-full font-bold">Já pensou em cuidar da sua saúde mental com o
+          <span className="text-sky-700"> menor custo </span> do mercado? </p>
           {/* mobile */}
-          <div className="md:hidden text-[24px] font-bold">Já pensou em</div>
-          <div className="md:hidden text-[24px] font-bold">cuidar da sua</div>
-          <div className="md:hidden text-[24px] font-bold">saúde mental com </div>
-          <div className="md:hidden text-[24px] font-bold text-sky-700">o menor custo <span className="text-black">do</span></div>
-          <div className="md:hidden text-[24px] font-bold">mercado?</div>
+          {/* <p className="text-[2rem] md:hidden font-bold">Já pensou em cuidar da sua saúde mental com o
+          <span className="text-sky-700"> menor custo </span> do mercado? </p> */}
         </div>
-        <div className="flex md:h-72 md:w-72">
+        <div className="flex md:h-64 md:w-64 justify-center">
           <Image
             src="./partnership.svg"
             width={360}
             height={360}
             alt="girl_with_heart"
-            className="lg:w-[21,5rem] lg:h-[21,5rem] bg-no-repeat absolute sm:block hidden"
+            className="md:w-[21.5rem] md:h-[21.5rem] md:block bg-no-repeat absolute hidden"
             />
         </div>
-        <div className="flex md:text-right text-center text-black flex-col xl:pr-20 md:mb-0 mb-8">
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">Nós da <span className="text-sky-700">Somente</span></div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">em parceira</div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">com a <span className="text-crimson-300">Caju</span></div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">desenvolvemos</div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">o seu <span className="text-sky-700">pacote de</span></div>
-          <div className="xl:text-[24px] md:block hidden text-[16px] font-bold text-sky-700">Saúde Mental!</div>
-          {/* mobile */}
-          <br className="md:hidden" />
-          <br className="md:hidden" />
-          <div className="md:hidden text-[24px] font-bold">Nós da</div>
-          <div className="md:hidden text-[24px] font-bold text-sky-700">Somente <span className="text-black">em</span></div>
-          <div className="md:hidden text-[24px] font-bold">parceria com a</div>
-          <div className="md:hidden text-[24px] font-bold text-crimson-300">Caju</div>
-          <div className="md:hidden text-[24px] font-bold">desenvolvemos</div>
-          <div className="md:hidden text-[24px] font-bold">o seu <span className="text-sky-700">pacote de</span></div>
-          <div className="md:hidden text-[24px] font-bold text-sky-700">Saúde Mental!</div>
+        <br className="sm:hidden" />
+        <br className="sm:hidden" />
+        <div className="flex md:text-right text-center text-black flex-col xl:w-80 xl:pr-20 md:mb-0 mb-8">
+          <p className="text-[1.5rem] font-bold">Nós da <span className="text-sky-700">Somente</span> em parceira com a <span className="text-crimson-300">Caju</span> desenvolvemos o seu <span className="text-sky-700">pacote de</span>
+          <span className="text-sky-700"> Saúde Mental!</span></p>
         </div>
 
       </div>
