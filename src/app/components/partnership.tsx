@@ -11,11 +11,11 @@ export default function Parnership() {
           <div className="xl:text-[24px] md:block hidden text-[16px] font-bold text-sky-700">menor custo <span className="text-black">do</span></div>
           <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">mercado?</div>
           {/* mobile */}
-          <div className="md:hidden text-[20px] font-bold">Já pensou em</div>
-          <div className="md:hidden text-[20px] font-bold">cuidar da sua</div>
-          <div className="md:hidden text-[20px] font-bold">saúde mental com </div>
-          <div className="md:hidden text-[20px] font-bold text-sky-700">o menor custo <span className="text-black">do</span></div>
-          <div className="md:hidden text-[20px] font-bold">mercado?</div>
+          <div className="md:hidden text-[24px] font-bold">Já pensou em</div>
+          <div className="md:hidden text-[24px] font-bold">cuidar da sua</div>
+          <div className="md:hidden text-[24px] font-bold">saúde mental com </div>
+          <div className="md:hidden text-[24px] font-bold text-sky-700">o menor custo <span className="text-black">do</span></div>
+          <div className="md:hidden text-[24px] font-bold">mercado?</div>
         </div>
         <div className="flex md:h-72 md:w-72">
           <Image
@@ -36,13 +36,13 @@ export default function Parnership() {
           {/* mobile */}
           <br className="md:hidden" />
           <br className="md:hidden" />
-          <div className="md:hidden text-[20px] font-bold">Nós da</div>
-          <div className="md:hidden text-[20px] font-bold text-sky-700">Somente <span className="text-black">em</span></div>
-          <div className="md:hidden text-[20px] font-bold">parceria com a</div>
-          <div className="md:hidden text-[20px] font-bold text-crimson-300">Caju</div>
-          <div className="md:hidden text-[20px] font-bold">desenvolvemos</div>
-          <div className="md:hidden text-[20px] font-bold">o seu <span className="text-sky-700">pacote de</span></div>
-          <div className="md:hidden text-[20px] font-bold text-sky-700">Saúde Mental!</div>
+          <div className="md:hidden text-[24px] font-bold">Nós da</div>
+          <div className="md:hidden text-[24px] font-bold text-sky-700">Somente <span className="text-black">em</span></div>
+          <div className="md:hidden text-[24px] font-bold">parceria com a</div>
+          <div className="md:hidden text-[24px] font-bold text-crimson-300">Caju</div>
+          <div className="md:hidden text-[24px] font-bold">desenvolvemos</div>
+          <div className="md:hidden text-[24px] font-bold">o seu <span className="text-sky-700">pacote de</span></div>
+          <div className="md:hidden text-[24px] font-bold text-sky-700">Saúde Mental!</div>
         </div>
 
       </div>
