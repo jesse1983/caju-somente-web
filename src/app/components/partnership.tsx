@@ -26,7 +26,7 @@ export default function Parnership() {
             className="lg:w-[21,5rem] lg:h-[21,5rem] bg-no-repeat absolute sm:block hidden"
             />
         </div>
-        <div className="flex md:text-right text-center text-black flex-col xl:pr-20">
+        <div className="flex md:text-right text-center text-black flex-col xl:pr-20 md:mb-0 mb-8">
           <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">Nós da <span className="text-sky-700">Somente</span></div>
           <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">em parceira</div>
           <div className="xl:text-[24px] md:block hidden text-[16px] font-bold">com a <span className="text-crimson-300">Caju</span></div>
