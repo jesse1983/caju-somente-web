@@ -19,7 +19,7 @@ export default function VideoBackground() {
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
       duration: 0,
-      margin: 2,
+      margin: 1,
     },
     {
       videoSrc: "./banner02.mp4",
@@ -161,7 +161,7 @@ export default function VideoBackground() {
             </div>
           </div>
           <div className="h-screen w-screen absolute overflow-hidden z-20 flex justify-between flex-col">
-            <div className="nav h-20"></div>
+            <div className="nav h-1/3 sm:h-1/5"></div>
             <div className="container m-auto text-center text-white">
               <div className="flex justify-between items-center gap-x-10 px-5">
                 <div className="prev flex-none w-4">
