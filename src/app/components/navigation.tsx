@@ -23,7 +23,7 @@ export default function Navigation() {
       }
     >
       <div className="flex sm:hidden w-screen fixed bottom-3">
-      <div className="text-white flex m-auto">
+      <div className="text-white flex m-auto md:block hidden">
         <a
           href="https://wa.me/message/ERYONYX6CUYNE1"
           target="_blank"

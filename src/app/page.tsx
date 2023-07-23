@@ -15,7 +15,7 @@ export default function Home() {
         <VideoBackground />
       </header>
       <main className="pb-10">
-        {/* <Partnership /> */}
+        <Partnership />
         <Discount />
         <div className="container mx-auto"><Carousel /></div>
         <div className="container mx-auto"><Icons /></div>

@@ -1,5 +1,5 @@
 export default function Discount() {
-  return <div className="m-10">
+  return <div className="m-10 pt-12">
     <div className="container m-auto bg-crimson-300">
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 h-96">
         <div className="flex xl:ml-3 h-full w-full bg-contain bg-center bg-no-repeat hidden sm:block" style={{ backgroundImage: 'url(./discount.png' }}></div>

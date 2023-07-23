@@ -23,7 +23,7 @@ export default function Footer() {
             src={"./logo-caju-somente.svg"}
             width={188}
             height={161}
-            alt="C6 Somente"
+            alt="Caju Somente"
             className="max-w-auto"
           />
         </div>

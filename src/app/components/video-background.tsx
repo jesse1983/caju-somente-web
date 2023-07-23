@@ -190,7 +190,16 @@ export default function VideoBackground() {
                 </div>
               </div>
             </div>
-            <div className="bullets">
+            <div className="text-white flex m-auto mb-3 md:hidden">
+              <a
+                href="https://wa.me/message/ERYONYX6CUYNE1"
+                target="_blank"
+                className="bg-blue-700 px-8 py-4 rounded-full uppercase font-bold text-sm"
+              >
+                Agende sua consulta
+              </a>
+            </div>
+            <div className="bullets md:block hidden">
               <div className="flex flex-row justify-center p-4">
                 {banners.map((b, y) => (
                   <a
