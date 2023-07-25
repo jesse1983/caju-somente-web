@@ -85,12 +85,12 @@ export default function Carousel() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 flex-1 overflow-hidden h-80">
           {filtered.map((e) => (
             <div
-              className="w-auto h-80 bg-crimson-300 bg-cover bg-no-repeat bg-center flex flex-col cursor-pointer"
+              className="w-auto h-80 bg-blue-700 bg-cover bg-no-repeat bg-center flex flex-col cursor-pointer"
               key={e.title}
               style={{ backgroundImage: `url(${e.bg})` }}
             >
-              <div className="text-white text-xl font-bold p-6 bg-crimson-300/70 flex-none">{e.title}</div>
-              <div className="text-white p-6 bg-crimson-300/70 flex-1 opacity-0 hover:opacity-100 transition-all duration-500">
+              <div className="text-white text-xl font-bold p-6 bg-blue-700/70 flex-none">{e.title}</div>
+              <div className="text-white p-6 bg-blue-700/70 flex-1 opacity-0 hover:opacity-100 transition-all duration-500">
                 {e.text}
               </div>
             </div>
