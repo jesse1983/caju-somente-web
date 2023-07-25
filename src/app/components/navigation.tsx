@@ -25,7 +25,7 @@ export default function Navigation() {
       <div className="flex sm:hidden w-screen fixed bottom-3">
       <div className="text-white flex m-auto md:block hidden">
         <a
-          href="https://wa.me/message/ERYONYX6CUYNE1"
+          href="https://wa.me/5511988892732"
           target="_blank"
           className="bg-blue-700 px-8 py-4 rounded-full uppercase font-bold text-sm"
         >
@@ -53,7 +53,7 @@ export default function Navigation() {
             </div>
             <div className="text-white flex">
               <a
-                href="https://wa.me/message/ERYONYX6CUYNE1"
+                href="https://wa.me/5511988892732"
                 target="_blank"
                 className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
               >
