@@ -14,7 +14,7 @@ export default function VideoBackground() {
       slogan: (
         <span>
           Como anda a <br /> sua {" "}
-          <strong className="text-sky-500">saúde mental</strong>?
+          <strong className="text-crimson-300">saúde mental</strong>?
         </span>
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
@@ -27,7 +27,7 @@ export default function VideoBackground() {
         <span>
           Caju + Somente - Unidos pela{" "}
           <br />{" "}
-          <strong className="text-sky-500">revolução da saúde mental!</strong>
+          <strong className="text-crimson-300">revolução da saúde mental!</strong>
         </span>
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
@@ -38,8 +38,8 @@ export default function VideoBackground() {
       videoSrc: "./banner03.mp4",
       slogan: (
         <span>
-          <strong className="text-sky-500">Psicólogos e </strong>
-          <strong className="text-sky-500">Psiquiatras</strong> <br />{" "}
+          <strong className="text-crimson-300">Psicólogos e </strong>
+          <strong className="text-crimson-300">Psiquiatras</strong> <br />{" "}
           para o mesmo dia
         </span>
       ),
@@ -52,7 +52,7 @@ export default function VideoBackground() {
       slogan: (
         <span>
           Atendimento on-line em <br />{" "}
-          <strong className="text-sky-500"> todo país</strong>
+          <strong className="text-crimson-300"> todo país</strong>
         </span>
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
@@ -141,7 +141,7 @@ export default function VideoBackground() {
           key={banner.videoSrc}
         >
           <div className="h-screen w-screen absolute z-10 flex">
-            <div className="absolute h-screen w-screen bg-gradient-to-b from-slate-900 to-slate-500 from-10% opacity-75"></div>
+            <div className="absolute h-screen w-screen bg-gradient-to-b from-crimson-900 to-rose-500 from-10% opacity-75"></div>
             <div className="w-screen h-screen overflow-hidden">
               <div
                 className={(banner.margin === 1 ? 'ml-neo1' : 'ml-neo2') + ` sm:ml-0 w-[170vh] sm:w-screen`}
@@ -194,7 +194,7 @@ export default function VideoBackground() {
               <a
                 href="https://wa.me/message/ERYONYX6CUYNE1"
                 target="_blank"
-                className="bg-blue-700 px-8 py-4 rounded-full uppercase font-bold text-sm"
+                className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
               >
                 Agende sua consulta
               </a>

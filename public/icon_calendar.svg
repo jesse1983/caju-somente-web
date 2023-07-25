@@ -1,11 +1,97 @@
-<svg width="112" height="111" viewBox="0 0 112 111" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0.368927 0.0596924H111.145V110.836H0.368927V0.0596924Z" fill="white" fill-opacity="0.01"/>
-<path d="M11.9081 43.9085H99.6058V92.373C99.6058 94.9223 97.5393 96.9887 94.9901 96.9887H16.5237C13.9746 96.9887 11.9081 94.9223 11.9081 92.373V43.9085Z" fill="#2F88FF" stroke="black" stroke-width="10.7894" stroke-linejoin="round"/>
-<path d="M11.9081 20.8301C11.9081 18.281 13.9746 16.2145 16.5237 16.2145H94.9901C97.5393 16.2145 99.6058 18.281 99.6058 20.8301V43.9085H11.9081V20.8301Z" stroke="black" stroke-width="10.7894" stroke-linejoin="round"/>
-<path d="M37.2943 9.29102V27.7537" stroke="black" stroke-width="10.7894" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M74.2196 9.29102V27.7537" stroke="black" stroke-width="10.7894" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M64.9883 78.5261H78.8353" stroke="white" stroke-width="10.7894" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32.6786 78.5261H46.5256" stroke="white" stroke-width="10.7894" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M64.9883 60.0634H78.8353" stroke="white" stroke-width="10.7894" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32.6786 60.0634H46.5256" stroke="white" stroke-width="10.7894" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="112"
+   height="111"
+   viewBox="0 0 112 111"
+   fill="none"
+   version="1.1"
+   id="svg285"
+   sodipodi:docname="icon_calendar.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs289" />
+  <sodipodi:namedview
+     id="namedview287"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.7297297"
+     inkscape:cx="45.985714"
+     inkscape:cy="55.605714"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg285" />
+  <path
+     d="M0.368927 0.0596924H111.145V110.836H0.368927V0.0596924Z"
+     fill="white"
+     fill-opacity="0.01"
+     id="path267" />
+  <path
+     d="M11.9081 43.9085H99.6058V92.373C99.6058 94.9223 97.5393 96.9887 94.9901 96.9887H16.5237C13.9746 96.9887 11.9081 94.9223 11.9081 92.373V43.9085Z"
+     fill="#2F88FF"
+     stroke="black"
+     stroke-width="10.7894"
+     stroke-linejoin="round"
+     id="path269"
+     style="fill:#e80536;fill-opacity:1" />
+  <path
+     d="M11.9081 20.8301C11.9081 18.281 13.9746 16.2145 16.5237 16.2145H94.9901C97.5393 16.2145 99.6058 18.281 99.6058 20.8301V43.9085H11.9081V20.8301Z"
+     stroke="black"
+     stroke-width="10.7894"
+     stroke-linejoin="round"
+     id="path271" />
+  <path
+     d="M37.2943 9.29102V27.7537"
+     stroke="black"
+     stroke-width="10.7894"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path273" />
+  <path
+     d="M74.2196 9.29102V27.7537"
+     stroke="black"
+     stroke-width="10.7894"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path275" />
+  <path
+     d="M64.9883 78.5261H78.8353"
+     stroke="white"
+     stroke-width="10.7894"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path277" />
+  <path
+     d="M32.6786 78.5261H46.5256"
+     stroke="white"
+     stroke-width="10.7894"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path279" />
+  <path
+     d="M64.9883 60.0634H78.8353"
+     stroke="white"
+     stroke-width="10.7894"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path281" />
+  <path
+     d="M32.6786 60.0634H46.5256"
+     stroke="white"
+     stroke-width="10.7894"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path283" />
 </svg>

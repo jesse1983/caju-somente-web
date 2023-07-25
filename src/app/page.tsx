@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Navigation />
-      <header className="bg-gradient-to-t from-blue-500 to-blue-900 min-h-screen">
+      <header className="bg-gradient-to-t from-crimson-300 to-crimson-700 min-h-screen">
         <VideoBackground />
       </header>
       <main className="pb-10">

@@ -27,9 +27,9 @@ export default function Navigation() {
         <a
           href="https://wa.me/message/ERYONYX6CUYNE1"
           target="_blank"
-          className="bg-blue-700 px-8 py-4 rounded-full uppercase font-bold text-sm"
+          className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
         >
-          Agende sua consulta
+          Agende sua consultass
         </a>
       </div>
       </div>
@@ -55,7 +55,7 @@ export default function Navigation() {
               <a
                 href="https://wa.me/message/ERYONYX6CUYNE1"
                 target="_blank"
-                className="bg-blue-700 px-8 py-4 rounded-full uppercase font-bold text-sm"
+                className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
               >
                 Agende sua consulta
               </a>
