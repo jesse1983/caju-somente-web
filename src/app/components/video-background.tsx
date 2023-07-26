@@ -191,13 +191,13 @@ export default function VideoBackground() {
               </div>
             </div>
             <div className="text-white flex m-auto mb-3 md:hidden">
-              <a
-                href="https://wa.me/5511988892732"
+              {/* <a
+                href="https://wa.me/5511913086111"
                 target="_blank"
                 className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
               >
                 Agende sua consulta
-              </a>
+              </a> */}
             </div>
             <div className="bullets md:block hidden">
               <div className="flex flex-row justify-center p-4">

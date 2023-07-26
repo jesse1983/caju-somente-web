@@ -23,11 +23,11 @@ export default function Navigation() {
       }
     >
       <div className="flex sm:hidden w-screen fixed bottom-3">
-      <div className="text-white flex m-auto md:block hidden">
+      <div className="text-white flex m-auto md:block sm:hidden">
         <a
-          href="https://wa.me/5511988892732"
+          href="https://wa.me/5511913086111"
           target="_blank"
-          className="bg-blue-700 px-8 py-4 rounded-full uppercase font-bold text-sm"
+          className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
         >
           Agende sua consulta
         </a>
@@ -53,7 +53,7 @@ export default function Navigation() {
             </div>
             <div className="text-white flex">
               <a
-                href="https://wa.me/5511988892732"
+                href="https://wa.me/5511913086111"
                 target="_blank"
                 className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
               >

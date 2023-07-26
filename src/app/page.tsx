@@ -7,6 +7,7 @@ import Icons from "./components/icons";
 import Numbers from "./components/numbers";
 import Footer from "./components/footer";
 
+
 export default function Home() {
   return (
     <>

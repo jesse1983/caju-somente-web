@@ -43,10 +43,10 @@ export default function Footer() {
                   src={'./icon-whatsapp.svg'}
                   width={24}
                   height={20}
-                  alt='(11) 98889-2732'
+                  alt='(11) 91308-6111'
                   className="max-w-auto float-left"
                 />
-              (11) 98889-2732
+              (11) 91308-6111
             </p>
             <p>
               Alameda Xingu, 350 <br />
