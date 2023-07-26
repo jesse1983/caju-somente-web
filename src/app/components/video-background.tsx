@@ -194,7 +194,7 @@ export default function VideoBackground() {
               <a
                 href="https://wa.me/5511988892732"
                 target="_blank"
-                className="text-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
+                className="bg-crimson-300 px-8 py-4 rounded-full uppercase font-bold text-sm"
               >
                 Agende sua consulta
               </a>
