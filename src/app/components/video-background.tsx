@@ -19,7 +19,7 @@ export default function VideoBackground() {
       ),
       videoComponent: useRef<HTMLVideoElement>(null),
       duration: 0,
-      margin: 1,
+      margin: 2,
     },
     {
       videoSrc: "./banner02.mp4",
@@ -144,7 +144,7 @@ export default function VideoBackground() {
             <div className="absolute h-screen w-screen bg-gradient-to-b from-slate-900 to-slate-500 from-10% opacity-75"></div>
             <div className="w-screen h-screen overflow-hidden">
               <div
-                className={(banner.margin === 1 ? 'ml-neo1' : 'ml-neo2') + ` sm:ml-0 w-[170vh] sm:w-screen`}
+                className={(banner.margin === 1 ? 'ml-[-100vw]' : 'ml-[-25vw]') + ` sm:ml-0 w-[170vh] sm:w-screen`}
               >
                 <video
                   className="h-screen w-auto sm:w-screen"
